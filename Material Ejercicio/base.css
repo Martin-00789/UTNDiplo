@@ -48,11 +48,13 @@ aside {
 @media screen and (max-width: 800px) {
 	body{
 		font-size: 15px;
+		width: 100%;
 	}
 
 	#contenedor {
 		display: flex;
 		flex-direction: column;
+		width: 100%;
 	}
 
 	nav {
